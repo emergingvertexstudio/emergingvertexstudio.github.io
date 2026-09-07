@@ -1,0 +1,4 @@
+repository "VertexSocial/VertexSocial@18968487203080@cloud"
+  path "/"
+    br "/main"
+    co "/main"
